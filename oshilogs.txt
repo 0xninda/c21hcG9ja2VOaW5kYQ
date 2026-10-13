@@ -12,77 +12,72 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ninda =====
-[1]Ninda       |12:44:57 | 12-10-2026| login OK @mynindaa | score=1010 rank=6095
-[1]Ninda       |12:44:57 | 12-10-2026| serverTime=2026-10-12T12:44:57.000Z local=2026-10-12T12:44:57.662Z
+[1]Ninda       |12:26:10 | 13-10-2026| login OK @mynindaa | score=1090 rank=5623
+[1]Ninda       |12:26:10 | 13-10-2026| serverTime=2026-10-13T12:26:10.000Z local=2026-10-13T12:26:10.879Z
 --> [1]Ninda menjalankan: Claim Daily
-[1]Ninda       |12:44:58 | 12-10-2026| daily: sudah klaim (already=true) score=1010
---> [1]Ninda menjalankan: Auto All Tasks (7 pending)
-[1]Ninda       |12:45:00 | 12-10-2026| [1/7] 52236caa (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/mynindaa/status/2109626000019824863
-[1]Ninda       |12:45:00 | 12-10-2026| delay 10s...
-[1]Ninda       |12:45:11 | 12-10-2026| [2/7] fa907706 (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/mynindaa/status/2109625918423863298
-[1]Ninda       |12:45:11 | 12-10-2026| delay 10s...
-[1]Ninda       |12:45:23 | 12-10-2026| [3/7] f3c57454 (link) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"}
-[1]Ninda       |12:45:23 | 12-10-2026| delay 10s...
-[1]Ninda       |12:45:35 | 12-10-2026| [4/7] 446fd4f4 (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/mynindaa/status/2109626069928029333
-[1]Ninda       |12:45:35 | 12-10-2026| delay 10s...
-[1]Ninda       |12:45:47 | 12-10-2026| [5/7] cbf91691 (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/mynindaa/status/2109626111223818288
-[1]Ninda       |12:45:47 | 12-10-2026| delay 10s...
-[1]Ninda       |12:45:58 | 12-10-2026| [6/7] 7411ef73 (reply) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"} | proof=https://x.com/mynindaa/status/2109626099948690222
-[1]Ninda       |12:45:58 | 12-10-2026| delay 10s...
-[1]Ninda       |12:46:10 | 12-10-2026| [7/7] 65e97767 (link) verify GAGAL http=429 resp={"error":"提出の間隔を10秒ほどあけて、もう一度お試しください。"}
-[1]Ninda       |12:46:10 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ninda       |12:46:11 | 12-10-2026| [1/1] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/mynindaa/status/2109626160973135559
+[1]Ninda       |12:26:12 | 13-10-2026| daily: OK +10 poin score=1100
+--> [1]Ninda menjalankan: Auto All Tasks (4 pending)
+[1]Ninda       |12:26:14 | 13-10-2026| [1/4] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mynindaa/status/2109983652451163681
+[1]Ninda       |12:26:14 | 13-10-2026| delay 10s...
+[1]Ninda       |12:26:27 | 13-10-2026| [2/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mynindaa/status/2109983707369983745
+[1]Ninda       |12:26:27 | 13-10-2026| delay 10s...
+[1]Ninda       |12:26:39 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/mynindaa/status/2109983685461515398
+[1]Ninda       |12:26:39 | 13-10-2026| delay 10s...
+[1]Ninda       |12:26:53 | 13-10-2026| [4/4] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Ninda       |12:26:53 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ninda       |12:26:54 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/mynindaa/status/2109983770888277350
 --> [1]Ninda menjalankan: Watch Anime
-[1]Ninda       |12:46:12 | 12-10-2026| watch: 1 video belum completed: ep2
-[1]Ninda       |12:46:12 | 12-10-2026| watch [1/1] farming ep2...
-[1]Ninda       |12:46:13 | 12-10-2026| watch ep2: mulai dari 0 (record 273.7s diabaikan)
-[1]Ninda       |12:46:14 | 12-10-2026| watch ep2: 67% (273.69/406.00s)
-[1]Ninda       |12:46:20 | 12-10-2026| watch ep2: 67% (273.69/406.00s)
-[1]Ninda       |12:46:26 | 12-10-2026| watch ep2: 67% (273.69/406.00s)
-[1]Ninda       |12:46:32 | 12-10-2026| watch ep2: heartbeat GAGAL http=409
+[1]Ninda       |12:26:55 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Ninda       |12:26:55 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +4)
+[1]Ninda       |12:26:58 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Ninda       |12:27:03 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Ninda       |12:27:05 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Ninda       |12:27:10 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Ninda       |12:27:12 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Ninda menjalankan: Read Article
-[1]Ninda       |12:46:33 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Ninda       |12:46:34 | 12-10-2026| mint eligibility: {"userId":"1918395581460037635","youtube":{"url":"https://www.youtube.com/@mynindaa","status":"submitted","revision":"2663c15a-9870-41de-9afb-1220ea249cfe","submittedAt":1791681743,"reviewedAt":179168
-[1]Ninda       |12:46:34 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Ninda       |12:27:13 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Ninda       |12:27:14 | 13-10-2026| mint eligibility: {"userId":"1918395581460037635","youtube":{"url":"https://www.youtube.com/@mynindaa","status":"submitted","revision":"2663c15a-9870-41de-9afb-1220ea249cfe","submittedAt":1791681743,"reviewedAt":179168
+[1]Ninda       |12:27:14 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Ninda menjalankan: Quiz Anime
-[1]Ninda       |12:46:34 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Ninda       |12:46:34 | 12-10-2026| quiz ep2: video belum selesai ditonton, skip (jalankan Watch Anime)
-[1]Ninda       |12:46:34 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Ninda       |12:46:34 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Ninda       |12:46:34 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Ninda       |12:46:34 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Ninda       |12:27:14 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Ninda       |12:27:14 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Ninda       |12:27:14 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Ninda       |12:27:14 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Ninda       |12:27:14 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Ninda       |12:27:14 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Ninda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ninda       |12:46:36 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ninda       |12:46:37 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Ninda       |12:46:37 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ninda       |12:46:37 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ninda       |12:27:17 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ninda       |12:27:17 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Ninda       |12:27:17 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ninda       |12:27:17 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ninda menjalankan: Claim Missions
-[1]Ninda       |12:46:37 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Ninda       |12:46:37 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ninda       |12:46:37 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ninda       |12:27:18 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Ninda       |12:27:18 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ninda       |12:27:18 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ninda menjalankan: Check Eligibility
 
 --- eligibility [1]Ninda ---
-  @mynindaa | score=1010 rank=6095
-  tasks    [##################--] 73/80
+  @mynindaa | score=1090 rank=5623
+  tasks    [###################-] 74/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
-  quiz     [#################---] 5/6
-  watch    [####################] 17/17
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ninda menjalankan: Read Manga
-[1]Ninda       |12:46:41 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Ninda       |12:27:24 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ninda menjalankan: Get Gift
-[1]Ninda       |12:46:42 | 12-10-2026| gift: 0/3 belum diterima
+[1]Ninda       |12:27:24 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Ninda menjalankan: Setup Profile
-[1]Ninda       |12:46:42 | 12-10-2026| profile: bio="https://x.com/mynindaa" fav=amato rewardAt=1791712804
-[1]Ninda       |12:46:42 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Ninda       |12:27:25 | 13-10-2026| profile: bio="https://x.com/mynindaa" fav=amato rewardAt=1791712804
+[1]Ninda       |12:27:25 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ninda menjalankan: Bind Wallet
-[1]Ninda       |12:46:43 | 12-10-2026| wallet: sudah terikat B9oDcjQZpB... (solana)
+[1]Ninda       |12:27:26 | 13-10-2026| wallet: sudah terikat B9oDcjQZpB... (solana)
 
 == RINGKASAN ==
-- Ninda: daily=already | tasks OK 1/8 | misi klaim 0 (+0pt) | kuis benar 5 (+0pt) | watch 0/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
+- Ninda: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false

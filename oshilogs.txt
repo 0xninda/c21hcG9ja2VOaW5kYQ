@@ -12,105 +12,119 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ninda =====
-[1]Ninda       |07:19:35 | 20-10-2026| login OK @mynindaa | score=1550 rank=4498
-[1]Ninda       |07:19:35 | 20-10-2026| serverTime=2026-10-20T07:19:35.000Z local=2026-10-20T07:19:35.814Z
+[1]Ninda       |09:47:24 | 21-10-2026| login OK @mynindaa | score=1620 rank=4394
+[1]Ninda       |09:47:24 | 21-10-2026| serverTime=2026-10-21T09:47:24.000Z local=2026-10-21T09:47:24.744Z
 --> [1]Ninda menjalankan: Claim Daily
-[1]Ninda       |07:19:38 | 20-10-2026| daily: OK +10 poin score=1560
---> [1]Ninda menjalankan: Auto All Tasks (7 pending)
-[1]Ninda       |07:19:41 | 20-10-2026| [1/7] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mynindaa/status/2112443294312375167
-[1]Ninda       |07:19:41 | 20-10-2026| delay 10s...
-[1]Ninda       |07:19:54 | 20-10-2026| [2/7] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mynindaa/status/2112443230060998509
-[1]Ninda       |07:19:54 | 20-10-2026| delay 10s...
-[1]Ninda       |07:20:09 | 20-10-2026| [3/7] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mynindaa/status/2112443386003530508
-[1]Ninda       |07:20:09 | 20-10-2026| delay 10s...
-[1]Ninda       |07:20:20 | 20-10-2026| [4/7] ecdd3dc8 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/mynindaa/status/2112443330965784621
-[1]Ninda       |07:20:20 | 20-10-2026| delay 10s...
-[1]Ninda       |07:20:32 | 20-10-2026| [5/7] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mynindaa/status/2112443363687923331
-[1]Ninda       |07:20:32 | 20-10-2026| delay 10s...
-[1]Ninda       |07:20:45 | 20-10-2026| [6/7] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mynindaa/status/2112443356600507805
-[1]Ninda       |07:20:45 | 20-10-2026| delay 10s...
-[1]Ninda       |07:20:59 | 20-10-2026| [7/7] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/mynindaa/status/2112443445188916760
-[1]Ninda       |07:20:59 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ninda       |07:21:01 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/mynindaa/status/2112443434977087983
+[1]Ninda       |09:47:26 | 21-10-2026| daily: OK +10 poin score=1630
+--> [1]Ninda menjalankan: Auto All Tasks (6 pending)
+[1]Ninda       |09:47:28 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842873920496054
+[1]Ninda       |09:47:28 | 21-10-2026| delay 10s...
+[1]Ninda       |09:47:40 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842761966545837
+[1]Ninda       |09:47:40 | 21-10-2026| delay 10s...
+[1]Ninda       |09:47:53 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112843009760304826
+[1]Ninda       |09:47:53 | 21-10-2026| delay 10s...
+[1]Ninda       |09:48:05 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842814179659927
+[1]Ninda       |09:48:05 | 21-10-2026| delay 10s...
+[1]Ninda       |09:48:17 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842837642375645
+[1]Ninda       |09:48:17 | 21-10-2026| delay 10s...
+[1]Ninda       |09:48:29 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
+[1]Ninda       |09:48:29 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ninda       |09:48:32 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/mynindaa/status/2112842977488551883
 --> [1]Ninda menjalankan: Watch Anime
-[1]Ninda       |07:21:02 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Ninda       |07:21:02 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Ninda       |07:21:04 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Ninda       |07:21:10 | 20-10-2026| watch oshi-captains-hat: 5% (5.28/92.00s)
-[1]Ninda       |07:21:16 | 20-10-2026| watch oshi-captains-hat: 11% (10.88/92.00s)
-[1]Ninda       |07:21:23 | 20-10-2026| watch oshi-captains-hat: 18% (16.77/92.00s)
-[1]Ninda       |07:21:29 | 20-10-2026| watch oshi-captains-hat: 24% (22.35/92.00s)
-[1]Ninda       |07:21:35 | 20-10-2026| watch oshi-captains-hat: 30% (28.22/92.00s)
-[1]Ninda       |07:21:42 | 20-10-2026| watch oshi-captains-hat: 36% (33.78/92.00s)
-[1]Ninda       |07:21:48 | 20-10-2026| watch oshi-captains-hat: 42% (39.37/92.00s)
-[1]Ninda       |07:21:54 | 20-10-2026| watch oshi-captains-hat: 49% (45.14/92.00s)
-[1]Ninda       |07:22:00 | 20-10-2026| watch oshi-captains-hat: 55% (50.70/92.00s)
-[1]Ninda       |07:22:07 | 20-10-2026| watch oshi-captains-hat: 61% (56.26/92.00s)
-[1]Ninda       |07:22:13 | 20-10-2026| watch oshi-captains-hat: 67% (62.06/92.00s)
-[1]Ninda       |07:22:20 | 20-10-2026| watch oshi-captains-hat: 73% (67.94/92.00s)
-[1]Ninda       |07:22:26 | 20-10-2026| watch oshi-captains-hat: 79% (73.54/92.00s)
-[1]Ninda       |07:22:33 | 20-10-2026| watch oshi-captains-hat: 86% (79.79/92.00s)
-[1]Ninda       |07:22:39 | 20-10-2026| watch oshi-captains-hat: 92% (85.37/92.00s)
-[1]Ninda       |07:22:39 | 20-10-2026| watch oshi-captains-hat: COMPLETED (85.37/92.00s)
-[1]Ninda       |07:22:44 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Ninda       |07:22:46 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Ninda       |07:22:52 | 20-10-2026| watch oshi-rainbow-star: 6% (5.29/86.00s)
-[1]Ninda       |07:22:59 | 20-10-2026| watch oshi-rainbow-star: 13% (11.27/86.00s)
-[1]Ninda       |07:23:05 | 20-10-2026| watch oshi-rainbow-star: 19% (16.88/86.00s)
-[1]Ninda       |07:23:11 | 20-10-2026| watch oshi-rainbow-star: 26% (22.49/86.00s)
-[1]Ninda       |07:23:18 | 20-10-2026| watch oshi-rainbow-star: 32% (28.36/86.00s)
-[1]Ninda       |07:23:24 | 20-10-2026| watch oshi-rainbow-star: 39% (33.97/86.00s)
-[1]Ninda       |07:23:31 | 20-10-2026| watch oshi-rainbow-star: 45% (39.55/86.00s)
-[1]Ninda       |07:23:38 | 20-10-2026| watch oshi-rainbow-star: 53% (45.85/86.00s)
-[1]Ninda       |07:23:44 | 20-10-2026| watch oshi-rainbow-star: 60% (51.92/86.00s)
-[1]Ninda       |07:23:50 | 20-10-2026| watch oshi-rainbow-star: 66% (57.54/86.00s)
-[1]Ninda       |07:23:56 | 20-10-2026| watch oshi-rainbow-star: 73% (63.16/86.00s)
-[1]Ninda       |07:24:03 | 20-10-2026| watch oshi-rainbow-star: 80% (68.90/86.00s)
-[1]Ninda       |07:24:09 | 20-10-2026| watch oshi-rainbow-star: 86% (74.49/86.00s)
-[1]Ninda       |07:24:15 | 20-10-2026| watch oshi-rainbow-star: 93% (80.03/86.00s)
-[1]Ninda       |07:24:15 | 20-10-2026| watch oshi-rainbow-star: COMPLETED (80.03/86.00s)
-[1]Ninda       |07:24:20 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Ninda       |07:24:22 | 20-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Ninda       |07:24:28 | 20-10-2026| watch oshi-rainbow-lighthouse: 6% (5.29/87.00s)
-[1]Ninda       |07:24:34 | 20-10-2026| watch oshi-rainbow-lighthouse: 12% (10.85/87.00s)
-[1]Ninda       |07:24:40 | 20-10-2026| watch oshi-rainbow-lighthouse: 18% (16.42/87.00s)
-[1]Ninda       |07:24:47 | 20-10-2026| watch oshi-rainbow-lighthouse: 25% (21.99/87.00s)
-[1]Ninda       |07:24:53 | 20-10-2026| watch oshi-rainbow-lighthouse: 32% (28.04/87.00s)
-[1]Ninda       |07:25:00 | 20-10-2026| watch oshi-rainbow-lighthouse: 38% (33.59/87.00s)
-[1]Ninda       |07:25:06 | 20-10-2026| watch oshi-rainbow-lighthouse: 45% (39.81/87.00s)
-[1]Ninda       |07:25:13 | 20-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |07:25:22 | 20-10-2026| watch oshi-rainbow-lighthouse: heartbeat GAGAL http=503
-[1]Ninda       |07:25:27 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Ninda       |07:25:28 | 20-10-2026| watch bakeru-ikesou-jan-mv: start GAGAL http=503
+[1]Ninda       |09:48:33 | 21-10-2026| watch: 2 video belum completed: oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Ninda       |09:48:33 | 21-10-2026| watch [1/2] farming oshi-rainbow-lighthouse...
+[1]Ninda       |09:48:34 | 21-10-2026| watch oshi-rainbow-lighthouse: mulai dari 0 (record 45.4s diabaikan)
+[1]Ninda       |09:48:35 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:48:41 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:48:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:48:54 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:49:01 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:49:07 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:49:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:49:20 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
+[1]Ninda       |09:49:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.92/87.00s)
+[1]Ninda       |09:49:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 59% (51.71/87.00s)
+[1]Ninda       |09:49:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 66% (57.45/87.00s)
+[1]Ninda       |09:49:45 | 21-10-2026| watch oshi-rainbow-lighthouse: 72% (63.10/87.00s)
+[1]Ninda       |09:49:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 78% (68.60/87.00s)
+[1]Ninda       |09:49:58 | 21-10-2026| watch oshi-rainbow-lighthouse: 85% (74.28/87.00s)
+[1]Ninda       |09:50:04 | 21-10-2026| watch oshi-rainbow-lighthouse: 91% (79.82/87.00s)
+[1]Ninda       |09:50:04 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (79.82/87.00s)
+[1]Ninda       |09:50:09 | 21-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
+[1]Ninda       |09:50:11 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Ninda       |09:50:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.20/181.00s)
+[1]Ninda       |09:50:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.66/181.00s)
+[1]Ninda       |09:50:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 8% (16.24/181.00s)
+[1]Ninda       |09:50:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.78/181.00s)
+[1]Ninda       |09:50:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.27/181.00s)
+[1]Ninda       |09:50:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.42/181.00s)
+[1]Ninda       |09:50:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.32/181.00s)
+[1]Ninda       |09:51:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 24% (45.20/181.00s)
+[1]Ninda       |09:51:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.32/181.00s)
+[1]Ninda       |09:51:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.90/181.00s)
+[1]Ninda       |09:51:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.39/181.00s)
+[1]Ninda       |09:51:27 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (67.89/181.00s)
+[1]Ninda       |09:51:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 40% (73.76/181.00s)
+[1]Ninda       |09:51:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 43% (79.33/181.00s)
+[1]Ninda       |09:51:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.92/181.00s)
+[1]Ninda       |09:51:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 50% (90.55/181.00s)
+[1]Ninda       |09:51:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 53% (96.04/181.00s)
+[1]Ninda       |09:52:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.70/181.00s)
+[1]Ninda       |09:52:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.27/181.00s)
+[1]Ninda       |09:52:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.83/181.00s)
+[1]Ninda       |09:52:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.68/181.00s)
+[1]Ninda       |09:52:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.21/181.00s)
+[1]Ninda       |09:52:36 | 21-10-2026| watch bakeru-ikesou-jan-mv: 72% (130.35/181.00s)
+[1]Ninda       |09:52:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 75% (135.90/181.00s)
+[1]Ninda       |09:52:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.89/181.00s)
+[1]Ninda       |09:52:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.42/181.00s)
+[1]Ninda       |09:53:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 84% (153.08/181.00s)
+[1]Ninda       |09:53:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (159.25/181.00s)
+[1]Ninda       |09:53:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 91% (164.73/181.00s)
+[1]Ninda       |09:53:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (164.73/181.00s)
 --> [1]Ninda menjalankan: Read Article
-[1]Ninda       |07:25:28 | 20-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:16 | 21-10-2026| news: 27/27 artikel selesai dibaca
+[1]Ninda       |09:53:16 | 21-10-2026| mint eligibility: {"userId":"1918395581460037635","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mynindaa","status":"submitted","revision":"2663c15a-9870-41de-9afb-1220ea249cfe"
+[1]Ninda       |09:53:23 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Ninda menjalankan: Quiz Anime
-[1]Ninda       |07:25:29 | 20-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:25 | 21-10-2026| quiz ep1: sudah dijawab
+[1]Ninda       |09:53:25 | 21-10-2026| quiz ep2: sudah dijawab
+[1]Ninda       |09:53:25 | 21-10-2026| quiz ep3: sudah dijawab
+[1]Ninda       |09:53:25 | 21-10-2026| quiz ep4: sudah dijawab
+[1]Ninda       |09:53:25 | 21-10-2026| quiz ep5: sudah dijawab
+[1]Ninda       |09:53:25 | 21-10-2026| quiz ep6: sudah dijawab
 --> [1]Ninda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ninda       |07:25:29 | 20-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Ninda       |07:25:29 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:27 | 21-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ninda       |09:53:27 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Ninda       |09:53:27 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ninda       |09:53:27 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ninda menjalankan: Claim Missions
-[1]Ninda       |07:25:29 | 20-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:28 | 21-10-2026| mission music-listens-10: sudah diklaim
+[1]Ninda       |09:53:28 | 21-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ninda       |09:53:28 | 21-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ninda menjalankan: Check Eligibility
 
 --- eligibility [1]Ninda ---
-  @mynindaa | score=1550 rank=4498
-  tasks    [##################--] 73/80
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @mynindaa | score=1620 rank=4394
+  tasks    [###################-] 74/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 22/17
+  music    [####################] 11/11
+  artikel  [####################] 27/27
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ninda menjalankan: Read Manga
-[1]Ninda       |07:25:31 | 20-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:32 | 21-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ninda menjalankan: Get Gift
-[1]Ninda       |07:25:31 | 20-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:32 | 21-10-2026| gift: 0/4 belum diterima
 --> [1]Ninda menjalankan: Setup Profile
-[1]Ninda       |07:25:31 | 20-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:33 | 21-10-2026| profile: bio="https://x.com/mynindaa" fav=amato rewardAt=1791712804
+[1]Ninda       |09:53:33 | 21-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ninda menjalankan: Bind Wallet
-[1]Ninda       |07:25:31 | 20-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Ninda       |09:53:33 | 21-10-2026| wallet: sudah terikat B9oDcjQZpB... (solana)
 
 == RINGKASAN ==
-- Ninda: daily=claimed | tasks OK 7/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Ninda: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false

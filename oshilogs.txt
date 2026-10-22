@@ -12,101 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ninda =====
-[1]Ninda       |09:47:24 | 21-10-2026| login OK @mynindaa | score=1620 rank=4394
-[1]Ninda       |09:47:24 | 21-10-2026| serverTime=2026-10-21T09:47:24.000Z local=2026-10-21T09:47:24.744Z
+[1]Ninda       |09:09:45 | 22-10-2026| login OK @mynindaa | score=1690 rank=4284
+[1]Ninda       |09:09:45 | 22-10-2026| serverTime=2026-10-22T09:09:45.000Z local=2026-10-22T09:09:45.641Z
 --> [1]Ninda menjalankan: Claim Daily
-[1]Ninda       |09:47:26 | 21-10-2026| daily: OK +10 poin score=1630
---> [1]Ninda menjalankan: Auto All Tasks (6 pending)
-[1]Ninda       |09:47:28 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842873920496054
-[1]Ninda       |09:47:28 | 21-10-2026| delay 10s...
-[1]Ninda       |09:47:40 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842761966545837
-[1]Ninda       |09:47:40 | 21-10-2026| delay 10s...
-[1]Ninda       |09:47:53 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112843009760304826
-[1]Ninda       |09:47:53 | 21-10-2026| delay 10s...
-[1]Ninda       |09:48:05 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842814179659927
-[1]Ninda       |09:48:05 | 21-10-2026| delay 10s...
-[1]Ninda       |09:48:17 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/mynindaa/status/2112842837642375645
-[1]Ninda       |09:48:17 | 21-10-2026| delay 10s...
-[1]Ninda       |09:48:29 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Ninda       |09:48:29 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ninda       |09:48:32 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/mynindaa/status/2112842977488551883
+[1]Ninda       |09:09:46 | 22-10-2026| daily: OK +10 poin score=1700
+--> [1]Ninda menjalankan: Auto All Tasks (9 pending)
+[1]Ninda       |09:09:49 | 22-10-2026| [1/9] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113195747910564267
+[1]Ninda       |09:09:49 | 22-10-2026| delay 10s...
+[1]Ninda       |09:10:01 | 22-10-2026| [2/9] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113195556283929660
+[1]Ninda       |09:10:01 | 22-10-2026| delay 10s...
+[1]Ninda       |09:10:13 | 22-10-2026| [3/9] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113195807836287090
+[1]Ninda       |09:10:13 | 22-10-2026| delay 10s...
+[1]Ninda       |09:10:25 | 22-10-2026| [4/9] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113195826260404997
+[1]Ninda       |09:10:25 | 22-10-2026| delay 10s...
+[1]Ninda       |09:10:37 | 22-10-2026| [5/9] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113195861403687542
+[1]Ninda       |09:10:37 | 22-10-2026| delay 10s...
+[1]Ninda       |09:10:49 | 22-10-2026| [6/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113195756128684894
+[1]Ninda       |09:10:49 | 22-10-2026| delay 10s...
+[1]Ninda       |09:11:02 | 22-10-2026| [7/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113196133433156041
+[1]Ninda       |09:11:02 | 22-10-2026| delay 10s...
+[1]Ninda       |09:11:14 | 22-10-2026| [8/9] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113195971418646659
+[1]Ninda       |09:11:14 | 22-10-2026| delay 10s...
+[1]Ninda       |09:11:26 | 22-10-2026| [9/9] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/mynindaa/status/2113196026365553409
+[1]Ninda       |09:11:26 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ninda       |09:11:28 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/mynindaa/status/2113196255118335542
 --> [1]Ninda menjalankan: Watch Anime
-[1]Ninda       |09:48:33 | 21-10-2026| watch: 2 video belum completed: oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Ninda       |09:48:33 | 21-10-2026| watch [1/2] farming oshi-rainbow-lighthouse...
-[1]Ninda       |09:48:34 | 21-10-2026| watch oshi-rainbow-lighthouse: mulai dari 0 (record 45.4s diabaikan)
-[1]Ninda       |09:48:35 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:48:41 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:48:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:48:54 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:49:01 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:49:07 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:49:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:49:20 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.41/87.00s)
-[1]Ninda       |09:49:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.92/87.00s)
-[1]Ninda       |09:49:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 59% (51.71/87.00s)
-[1]Ninda       |09:49:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 66% (57.45/87.00s)
-[1]Ninda       |09:49:45 | 21-10-2026| watch oshi-rainbow-lighthouse: 72% (63.10/87.00s)
-[1]Ninda       |09:49:52 | 21-10-2026| watch oshi-rainbow-lighthouse: 78% (68.60/87.00s)
-[1]Ninda       |09:49:58 | 21-10-2026| watch oshi-rainbow-lighthouse: 85% (74.28/87.00s)
-[1]Ninda       |09:50:04 | 21-10-2026| watch oshi-rainbow-lighthouse: 91% (79.82/87.00s)
-[1]Ninda       |09:50:04 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (79.82/87.00s)
-[1]Ninda       |09:50:09 | 21-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Ninda       |09:50:11 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Ninda       |09:50:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.20/181.00s)
-[1]Ninda       |09:50:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.66/181.00s)
-[1]Ninda       |09:50:29 | 21-10-2026| watch bakeru-ikesou-jan-mv: 8% (16.24/181.00s)
-[1]Ninda       |09:50:35 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.78/181.00s)
-[1]Ninda       |09:50:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.27/181.00s)
-[1]Ninda       |09:50:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.42/181.00s)
-[1]Ninda       |09:50:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 21% (39.32/181.00s)
-[1]Ninda       |09:51:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 24% (45.20/181.00s)
-[1]Ninda       |09:51:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.32/181.00s)
-[1]Ninda       |09:51:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 31% (56.90/181.00s)
-[1]Ninda       |09:51:20 | 21-10-2026| watch bakeru-ikesou-jan-mv: 34% (62.39/181.00s)
-[1]Ninda       |09:51:27 | 21-10-2026| watch bakeru-ikesou-jan-mv: 37% (67.89/181.00s)
-[1]Ninda       |09:51:33 | 21-10-2026| watch bakeru-ikesou-jan-mv: 40% (73.76/181.00s)
-[1]Ninda       |09:51:39 | 21-10-2026| watch bakeru-ikesou-jan-mv: 43% (79.33/181.00s)
-[1]Ninda       |09:51:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.92/181.00s)
-[1]Ninda       |09:51:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 50% (90.55/181.00s)
-[1]Ninda       |09:51:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 53% (96.04/181.00s)
-[1]Ninda       |09:52:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.70/181.00s)
-[1]Ninda       |09:52:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.27/181.00s)
-[1]Ninda       |09:52:17 | 21-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.83/181.00s)
-[1]Ninda       |09:52:23 | 21-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.68/181.00s)
-[1]Ninda       |09:52:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.21/181.00s)
-[1]Ninda       |09:52:36 | 21-10-2026| watch bakeru-ikesou-jan-mv: 72% (130.35/181.00s)
-[1]Ninda       |09:52:43 | 21-10-2026| watch bakeru-ikesou-jan-mv: 75% (135.90/181.00s)
-[1]Ninda       |09:52:49 | 21-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.89/181.00s)
-[1]Ninda       |09:52:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.42/181.00s)
-[1]Ninda       |09:53:02 | 21-10-2026| watch bakeru-ikesou-jan-mv: 84% (153.08/181.00s)
-[1]Ninda       |09:53:08 | 21-10-2026| watch bakeru-ikesou-jan-mv: 87% (159.25/181.00s)
-[1]Ninda       |09:53:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: 91% (164.73/181.00s)
-[1]Ninda       |09:53:14 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (164.73/181.00s)
+[1]Ninda       |09:11:29 | 22-10-2026| watch: semua video sudah completed
 --> [1]Ninda menjalankan: Read Article
-[1]Ninda       |09:53:16 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Ninda       |09:53:16 | 21-10-2026| mint eligibility: {"userId":"1918395581460037635","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mynindaa","status":"submitted","revision":"2663c15a-9870-41de-9afb-1220ea249cfe"
-[1]Ninda       |09:53:23 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ninda       |09:11:30 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Ninda       |09:11:31 | 22-10-2026| mint eligibility: {"userId":"1918395581460037635","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@mynindaa","status":"submitted","revision":"2663c15a-9870-41de-9afb-1220ea249cfe"
+[1]Ninda       |09:11:38 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ninda       |09:11:47 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Ninda menjalankan: Quiz Anime
-[1]Ninda       |09:53:25 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Ninda       |09:53:25 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Ninda       |09:53:25 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Ninda       |09:53:25 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Ninda       |09:53:25 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Ninda       |09:53:25 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Ninda       |09:11:50 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Ninda       |09:11:50 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Ninda       |09:11:50 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Ninda       |09:11:50 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Ninda       |09:11:50 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Ninda       |09:11:50 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Ninda menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ninda       |09:53:27 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ninda       |09:53:27 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Ninda       |09:53:27 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ninda       |09:53:27 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ninda       |09:11:52 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ninda       |09:11:53 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Ninda       |09:11:53 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ninda       |09:11:53 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ninda menjalankan: Claim Missions
-[1]Ninda       |09:53:28 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Ninda       |09:53:28 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ninda       |09:53:28 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ninda       |09:11:54 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Ninda       |09:11:54 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ninda       |09:11:54 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ninda menjalankan: Check Eligibility
 
 --- eligibility [1]Ninda ---
-  @mynindaa | score=1620 rank=4394
-  tasks    [###################-] 74/80
+  @mynindaa | score=1690 rank=4284
+  tasks    [##################--] 77/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -117,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ninda menjalankan: Read Manga
-[1]Ninda       |09:53:32 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Ninda       |09:12:00 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ninda menjalankan: Get Gift
-[1]Ninda       |09:53:32 | 21-10-2026| gift: 0/4 belum diterima
+[1]Ninda       |09:12:01 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Ninda menjalankan: Setup Profile
-[1]Ninda       |09:53:33 | 21-10-2026| profile: bio="https://x.com/mynindaa" fav=amato rewardAt=1791712804
-[1]Ninda       |09:53:33 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Ninda       |09:12:01 | 22-10-2026| profile: bio="https://x.com/mynindaa" fav=amato rewardAt=1791712804
+[1]Ninda       |09:12:01 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ninda menjalankan: Bind Wallet
-[1]Ninda       |09:53:33 | 21-10-2026| wallet: sudah terikat B9oDcjQZpB... (solana)
+[1]Ninda       |09:12:02 | 22-10-2026| wallet: sudah terikat B9oDcjQZpB... (solana)
 
 == RINGKASAN ==
-- Ninda: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Ninda: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
